@@ -4,7 +4,7 @@
     <application
         android:allowBackup="false"
         android:label="TONE LAB AI"
-        android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
+        android:theme="@android:style/Theme.Material.NoActionBar">
         <activity
             android:name=".MainActivity"
             android:exported="true">
